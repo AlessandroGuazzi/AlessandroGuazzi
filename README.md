@@ -42,4 +42,4 @@ I am a Master's degree student specializing in **Distributed Systems**, **Machin
 
 ## 🤝 Connect with Me
 
-* 💼 **LinkedIn:** [Let's connect on LinkedIn!]([https://www.linkedin.com/in/YOUR_LINKEDIN_URL](https://www.linkedin.com/in/alessandroguazzi/))
+* 💼 **LinkedIn:** [Let's connect on LinkedIn!](https://www.linkedin.com/in/alessandroguazzi/)
