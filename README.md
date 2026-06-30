@@ -1,6 +1,8 @@
-# Hi there, I'm a Computer Science & Engineering Master's Student! 👋
+# Hey there! I'm Alessandro 👋
 
-I am a Master's degree student specializing in **Distributed Systems**, **Machine Learning & Data Science**, and **Space Cloud Solutions**. I focus on building low-latency orchestration frameworks, edge computing infrastructures, and intelligent data-driven systems.
+I'm a Master's student in Computer Science & Engineering with a deep interest in where distributed systems, machine learning, and space cloud infrastructure intersect. Right now, I spend most of my time building low-latency orchestration frameworks, optimizing edge computing infrastructure, and designing intelligent, data-driven systems. 
+
+Welcome to my GitHub! 🪐✨
 
 ---
 
