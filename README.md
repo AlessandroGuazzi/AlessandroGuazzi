@@ -47,8 +47,7 @@ Welcome to my GitHub! 🪐✨
 
 <p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlessandroGuazzi&theme=gotham" alt="Top Languages by Commit" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroGuazzi&layout=compact&theme=gotham&hide_border=true" alt="Top Languages by Repo" />
-</p>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroGuazzi&layout=compact&theme=gotham&hide_border=true&hide=jupyter%20notebook" alt="Top Languages by Repo" /></p>
 
 ---
 
