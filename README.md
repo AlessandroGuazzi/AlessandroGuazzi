@@ -41,13 +41,13 @@ Welcome to my GitHub! 🪐✨
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AlessandroGuazzi&show_icons=true&theme=gotham&hide_border=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AlessandroGuazzi&show_icons=true&hide_rank=true&theme=gotham&hide_border=true" alt="GitHub Stats" />
   <img width="49%" src="https://streak-stats.demolab.com/?user=AlessandroGuazzi&theme=gotham&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlessandroGuazzi&theme=gotham" alt="Top Languages" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats-by-day-hour?username=AlessandroGuazzi&theme=gotham" alt="Commit Activity" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlessandroGuazzi&theme=gotham" alt="Top Languages by Commit" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroGuazzi&layout=compact&theme=gotham&hide_border=true" alt="Top Languages by Repo" />
 </p>
 
 ---
